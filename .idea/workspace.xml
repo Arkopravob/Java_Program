@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd7b806a-d33f-4f69-855c-ac39e923c822" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Oops1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/First_4_even.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/Loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/BinTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Fibbonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Intregal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Loop_Ap_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Primenumber_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ReverseOfnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/S.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/SumOrProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Sum_Of_N_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Sum_of_even.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While_reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/VarSeason.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="dd7b806a-d33f-4f69-855c-ac39e923c822" name="Changes" comment="javaclass_02">
+      <change afterPath="$PROJECT_DIR$/src/pattern/pattern_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/pattern_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +22,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/loop" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -85,6 +66,8 @@
     "Application.pattern1.executor": "Run",
     "Application.pattern2.executor": "Run",
     "Application.pattern3.executor": "Run",
+    "Application.pattern_01.executor": "Run",
+    "Application.pattern_02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -92,33 +75,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.pattern3">
-    <configuration name="BinTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.BinTo" />
-      <module name="javaproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOrProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.SumOrProduct" />
-      <module name="javaproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.pattern_02">
     <configuration name="pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.pattern1" />
       <module name="javaproject" />
@@ -158,13 +115,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pattern_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.pattern_01" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pattern_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.pattern_02" />
+      <module name="javaproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern_02" />
+        <item itemvalue="Application.pattern_01" />
         <item itemvalue="Application.pattern3" />
         <item itemvalue="Application.pattern2" />
         <item itemvalue="Application.pattern1" />
-        <item itemvalue="Application.BinTo" />
-        <item itemvalue="Application.SumOrProduct" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +160,31 @@
       <option name="presentableId" value="Default" />
       <updated>1734880730394</updated>
     </task>
+    <task id="LOCAL-00001" summary="javaclass_01">
+      <option name="closed" value="true" />
+      <created>1739801061646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739801061646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="javaclass_01" />
+    <option name="LAST_COMMIT_MESSAGE" value="javaclass_01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
