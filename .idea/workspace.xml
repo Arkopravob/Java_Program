@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1df3c6d-ad95-4d44-a4cf-25be8dfae2ce" name="Changes" comment="code update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2xMkBdi3g26uHox1XwgMBhqMDdH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array_01.executor": "Run",
+    "Application.Array_02_forEach.executor": "Run",
+    "Application.Array_03_2d.executor": "Run",
+    "Application.Array_04.executor": "Run",
+    "Application.Array_06.executor": "Run",
+    "Application.Day02.executor": "Run",
+    "Application.Day03.executor": "Run",
+    "Application.Day_01.executor": "Run",
+    "Application.Day_04.executor": "Run",
+    "Application.Day_5.executor": "Run",
+    "Application.FirstJava.executor": "Run",
+    "Application.Game.executor": "Run",
+    "Application.GreatesOfThree.executor": "Run",
+    "Application.Leap_Year.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Methods_01.executor": "Run",
+    "Application.Tester (1).executor": "Run",
+    "Application.Tester.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/myfirstJava/myjavaApp/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.FirstJava">
+    <configuration name="Array_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myJavaApp.Array_06" />
+      <module name="myjavaApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myJavaApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myJavaApp.FirstJava" />
+      <module name="myjavaApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myJavaApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatesOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myJavaApp.GreatesOfThree" />
+      <module name="myjavaApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myJavaApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leap_Year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myJavaApp.Leap_Year" />
+      <module name="myjavaApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myJavaApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Methods_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myJavaApp.Methods_01" />
+      <module name="myjavaApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myJavaApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FirstJava" />
+        <item itemvalue="Application.Methods_01" />
+        <item itemvalue="Application.Array_06" />
+        <item itemvalue="Application.Leap_Year" />
+        <item itemvalue="Application.GreatesOfThree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1df3c6d-ad95-4d44-a4cf-25be8dfae2ce" name="Changes" comment="" />
+      <created>1747755196602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747755196602</updated>
+    </task>
+    <task id="LOCAL-00001" summary="code update">
+      <option name="closed" value="true" />
+      <created>1751596439076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751596439077</updated>
+    </task>
+    <task id="LOCAL-00002" summary="code update">
+      <option name="closed" value="true" />
+      <created>1751596492720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751596492720</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code update" />
+    <option name="LAST_COMMIT_MESSAGE" value="code update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myJavaApp/Methods_01.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
